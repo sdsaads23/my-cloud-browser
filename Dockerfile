@@ -1,2 +1,2 @@
-FROM ghcr.io/linuxserver/brave:latest
+FROM ghcr.io/linuxserver/helium:latest
 EXPOSE 3000
