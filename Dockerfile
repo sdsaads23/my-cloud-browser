@@ -1,2 +1,2 @@
-FROM ghcr.io/linuxserver/msedge:latest
+FROM ghcr.io/linuxserver/brave:latest
 EXPOSE 3000
